@@ -2,7 +2,11 @@
 
 Este repositorio contiene las práctica CSS para LaunchX.
 
-Se trata de recrear el estilo de la página: 
+Alojada en:
+
+https://begama21.github.io/PracticaFrontCSS/
+
+Se trata de recrear el estilo de la página:
 
     https://raw.githubusercontent.com/LaunchX-InnovaccionVirtual/FrontEnd-Mision/main/03%20-		%20CSS/practica/landingVacunaci%C3%B3n.png
 
