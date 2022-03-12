@@ -20,9 +20,12 @@ p{
 
 h1{
     color: blue;
-    position: absolute;
+    position: fixed;
     top: 20px;
-    
+}
+
+header{
+    position:fixed;
 }
 
 header li{
@@ -40,10 +43,12 @@ header li{
 
 nav{
     float: right;
-    position: absolute;
+    position: fixed;
     top: 0px;
     right: 100px;
     margin: auto;
+    background-color: white;
+    opacity: 0.99;
 }
 
 header li:hover {
